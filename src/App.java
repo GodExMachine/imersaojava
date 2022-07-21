@@ -22,7 +22,6 @@ public class App {
         List<Map<String, String>> listaDeFilmes = parser.parse(body);
 
         // exibir e manipular os dados
-
         for (Map<String,String> filme : listaDeFilmes) {
             System.out.println("Título: "+filme.get("title")+"\u001b[0m");
             System.out.println("Poster: "+filme.get("image"));
