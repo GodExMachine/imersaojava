@@ -1,6 +1,6 @@
 ## Imersão em Java - ALURA
 
-Este repositório conterá o código realizado durante a semana de Imersão em Java da Alura. 
+Este repositório contem o código realizado durante a semana de Imersão em Java da Alura. 
 
 ## Aula 1
 
