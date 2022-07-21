@@ -46,5 +46,3 @@ public class App {
 
     }
 }
-
-//parei aula 1 1:23
