@@ -12,4 +12,4 @@ Nesta aula criamos um gerador de figurinhas com as imagens dos pôsteres dos fil
 
 ## Aula 3
 
-Nessa aula consumimos a API da nasa e refatoramos o nosso código. Criamos a classe ClienteHttp que será a responsável por fazer as chamadas nas APIs.
+Nessa aula consumimos a API da nasa e refatoramos o nosso código, criamos a classe ClienteHttp que será a responsável por fazer as chamadas nas APIs.
