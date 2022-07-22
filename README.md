@@ -11,3 +11,5 @@ Criar uma aplicação Java para consumir a API do IMDb e exibir os filmes mais p
 Nesta aula criamos um gerador de figurinhas com as imagens dos pôsteres dos filmes consumidos a partir da API do IMDb.
 
 ## Aula 3
+
+Nessa aula consumimos a API da nasa e refatoramos o nosso código. Criamos a classe ClienteHttp que será a responsável por fazer as chamadas nas APIs.
