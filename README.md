@@ -4,12 +4,8 @@ Este repositório contem o código realizado durante a semana de Imersão em Jav
 
 ## Aula 1
 
-Criar uma aplicação Java para consumir a API do IMDb e exibir os filmes mais populares, mostrando seus pôsteres e visualizando sua classificação incluindo ainda estrelas conforme as notas.    
+Um desafio onde criamos uma aplicação Java para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação.    
 
 ## Aula 2
 
-Nesta aula criamos um gerador de figurinhas com as imagens dos pôsteres dos filmes consumidos a partir da API do IMDb.
-
-## Aula 3
-
-Nessa aula consumimos a API da nasa e refatoramos o nosso código, criamos a classe ClienteHttp que será a responsável por fazer as chamadas nas APIs.
+Nesta aula o desafio foi criar um gerador de figurinhas com as imagens dos pôsteres dos filmes consumidos a partir da API do IMDb.
