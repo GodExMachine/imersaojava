@@ -12,18 +12,12 @@ Nesta aula o desafio foi criar um gerador de figurinhas com as imagens dos pôst
 
 ## Aula 3
 
-Nessa aula consumimos a API da nasa, nela conseguimos trazer outras imagens para o nosso projeto.
+Nessa aula consumimos a API da nasa para buscar outras imagens para o nosso projeto.
 
-Também refatoramos o nosso código. Criamos a classe ClienteHttp, esse será a responsável por fazer as chamadas nas APIs
+Também refatoramos o nosso código.
 
 ## Aula 4
-Criar uma api.
-
-Tecnologia utilizada, spring.
-
-Para criar um projeto, podemos ir em start spring io
-
-Banco de dados utilizado, mogo DB
+Criamos uma api utilizando spring e banco de dados utilizado mogo DB.
 
 ## Aula 5
-Nessa aula subimos a aplicação para que ele roda-se e cloud, para isso utilizamos o HEROKU. Tive uma pouco de dificuldade. Consegui colocar a aplicação no ar assintindo ao vídeo
+Nessa aula subimos a aplicação para a cloud usando HEROKU.
